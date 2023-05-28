@@ -32,9 +32,9 @@ pygame.display.set_caption("Music Player")
 
 # List of music files
 music_files = [
-    r"C:\Users\malli\Downloads\Tere Hawaale(PagalWorld.com.se).mp3",
-    r"C:\Users\malli\Downloads\Jai Shri Ram(PagalWorld.com.se).mp3",
-    r"C:\Users\malli\Downloads\Maan Meri Jaan(PagalWorld.com.se).mp3"
+    r"C:\Users\KIIT\OneDrive\Documents\Web Development\PragyaPython-Project-1-Music\Tere Hawaale(PagalWorld.com.se).mp3",
+    r"C:\Users\KIIT\OneDrive\Documents\Web Development\PragyaPython-Project-1-Music\Maan Meri Jaan(PagalWorld.com.se).mp3",
+    r"C:\Users\KIIT\OneDrive\Documents\Web Development\PragyaPython-Project-1-Music\Jai Shri Ram(PagalWorld.com.se).mp3"
 ]
 
 # Index of current song
